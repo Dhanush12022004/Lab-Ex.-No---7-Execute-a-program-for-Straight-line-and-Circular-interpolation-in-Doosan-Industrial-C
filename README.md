@@ -36,7 +36,7 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 
 
 
-### output
+### Output
 
 ![239443964-1d17944d-2521-44b6-9cdc-3d6814aa8f47](https://github.com/Georgepaultony/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/120088748/ad1b7f75-90bc-40f7-afe9-121c4e683597)
 
